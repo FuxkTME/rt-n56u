@@ -145,4 +145,5 @@ fakeroot ./build_firmware_modify PSG1218
 * lean源码: https://github.com/coolsnowwolf/lede
 * 汉化字典来自：https://github.com/gorden5566/padavan
 * hanwckf更新日志：https://www.jianshu.com/p/d76a63a12eae
+* 
 
